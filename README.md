@@ -36,3 +36,5 @@ Hayco has modelled this data relationally and stored it in a Postgres Database.
 In [translatin-manif](https://github.com/HuygensING/translatin-manif), Dirk
 Roorda has used the contents of that database to mix metadata into a selection of 
 manifestations which were published through a Text-Fabric pipeline.
+
+See [resultdata](resultdata).
